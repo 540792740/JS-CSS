@@ -1,0 +1,30 @@
+<!--Note:The template file will be copied to a new file. When you change the code of the template file you can create new file with this base code. -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "UTF-8">
+        <title>
+            123
+        </title>
+        
+        <style>
+            div{
+                width = 100px; 
+                height = 100px; 
+                background = red;
+                @import* url("01_style.css")
+            }
+        </style>
+    </head>
+    
+
+    <body>
+    <!--1. -->    
+    <!--<div style="width: 1000px;  height : 1000px; background = red;"></div> -->
+    <!--2. -->
+            <div></div>
+    </body>
+</html>
+
+ *My favorite app::websta$-html,css,js  https://itunes.apple.com/app/id932296259?mt=8
+Other's Tutorals:http://iii9i.com
