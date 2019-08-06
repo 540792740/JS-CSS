@@ -1,0 +1,35 @@
+<!--Note:The template file will be copied to a new file. When you change the code of the template file you can create new file with this base code. -->
+<html>
+<head>
+    <title>Weight</title>
+    <style type = 'text/css'>
+    
+//        weight: 
+//            type selector: 0001        div
+//            class selector: 0010        .view
+//            ID selector: 0100            #head
+//            Psoude_class: 0010
+//            Contain Selector: Totle of all weight
+            
+    #identify{background : yellow}
+    .view {background : red}
+    div{width : 100px; height : 100px; background : blue}
+    
+    //0010
+    .title{background:blue}
+    
+    //0010 + 0010 = 0100
+    .view1  .title{background : yellow; color : grey}
+    </style>
+</head>
+
+    <body>
+        <div class = 'view'; ID = 'identify'></div>
+         <div class = 'view1'>
+             <p class = 'title' style = 'color: black'>html</p>
+             //style is the weightest!
+     </body>
+</html>
+
+ *My favorite app::websta$-html,css,js  https://itunes.apple.com/app/id932296259?mt=8
+Other's Tutorals:http://iii9i.com
