@@ -1,0 +1,45 @@
+<!--Note:The template file will be copied to a new file. When you change the code of the template file you can create new file with this base code. -->
+<html>
+<head>
+    <title>List</title>
+    <style>
+        ul{
+           background : red;
+           /*list-style: none*/
+           /*list-style-image: url(img/list.png)*/
+           /**/
+           /*list-style-position: outside;*/
+           
+           /*style-type: square, circle, disc, none*/
+           list-style-type: disc;
+        }
+        
+        li{
+            line-height : 30px
+        }
+        
+        p{
+          /*line-through, underline, overline*/
+          text-decoration: line-through;  
+        }
+        
+        a{
+            text-decoration : none
+        }
+    </style>
+</head>
+    <body>
+    <!--list-->
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>CR7</li>
+        </ul>
+        
+        <p>HTML</p>
+        <a href = "http://www.google.com">Google</a>
+    </body>
+</html>
+
+ *My favorite app::websta$-html,css,js  https://itunes.apple.com/app/id932296259?mt=8
+Other's Tutorals:http://iii9i.com
