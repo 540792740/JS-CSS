@@ -1,32 +1,57 @@
 <!--Note:The template file will be copied to a new file. When you change the code of the template file you can create new file with this base code. -->
 <html>
 <head>
-    <title>Weight</title>
-    <style type = 'text/css'>
-    
-//        weight: 
-//            type selector: 0001        div
-//            class selector: 0010        .view
-//            ID selector: 0100            #head
-//            Psoude_class: 0010
-//            Contain Selector: Totle of all weight
-            
-    #identify{background : yellow}
-    .view {background : red}
-    div{width : 100px; height : 100px; background : blue}
-    
-    //0010
-    .title{background:blue}
-    
-    //0010 + 0010 = 0100
-    .view1  .title{background : yellow; color : grey}
-    </style>
-</head>
+    <title>123</title>
+    <style>
+            .content{
+                width : 150px;
+                height : 100px;
 
-    <body>
-        <div class = 'view'; ID = 'identify'></div>
-         <div class = 'view1'>
-             <p class = 'title' style = 'color: black'>html</p></div>
-             //style is the weightest!
-     </body>
+                /*background : #800080*/
+                /*background: rgb(26,126,97);*/
+                background: rgba(26,126,90,0.5);
+
+                /*default size: 16px*/
+                font-size: 30px;
+
+                font-family: 'weiruanyahei';
+
+                /*bold/bolder/100-900/ normal.     default: 500*/
+                font-weight: bolder;
+
+                font-style: italic;
+
+                /*typeface: all-small-caps*/
+                font-variant: small-caps;
+
+                /*Align: left, right, center, justify:两端*/
+                text-align: center;
+
+                /*Vertical Align: top, middle, bottom*/
+                vertical-align: bottom;
+
+                line-height : 100px;
+            }
+            .view{
+                width: 200px;
+                height : 1500px;
+                font-size: 20px;
+                background : rgba(43,26,123,0.5);
+                line-height: 20px;
+
+                /*line-height: number * font-size!*/
+                /*line-height: 2;*/
+
+                /*line-height == class height --> center*/
+
+
+            }
+
+        </style>
+</head >
+<body>
+<a href="http://www.tayutec.com">HelloWord</a>
+<div class = 'content'>HTLM </div>
+<p class = 'view'> Work hard, keep calm. Work hard, keep calmsssss</p>
+</body>
 </html>
