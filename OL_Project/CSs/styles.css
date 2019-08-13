@@ -1,0 +1,58 @@
+/* Reset style*/
+/*width: ;*/
+/*height: ;*/
+/*background: ;*/
+/*margin: ;*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    width: 999px;
+    height: 100px;
+    background: red;
+    margin: 0 auto;
+}
+#header .logo{
+    width:249px ;
+    height: 31px;
+    background: white;
+    margin: 39px 0 31px 19px;
+    float: left;
+}
+#header .search{
+    width: 229px;
+    height: 31px;
+    background: blue;
+    margin: 39px 19px 31px 0px;
+    float: right;
+}
+
+#nav{
+    width: 999px;
+    height: 60px;
+    background: blue;
+    margin: 0 auto;
+}
+#banner{
+    width: 999px;
+    height: 464px;
+    background: purple;
+    margin: 0 auto;
+}
+
+#news{
+    width: 999px;
+    height: 547px;
+    background: green;
+    margin: 0 auto;
+}
+
+#footer{
+    width: 999px;
+    height: 332px;
+    background: aqua;
+    margin: 0 auto;
+}
+
