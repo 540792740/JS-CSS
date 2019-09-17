@@ -1,0 +1,127 @@
+
+#Head{
+    width: 1000px;
+    height: 40px;
+    background: #f2f2f2;
+    margin: 0 auto;
+    padding: 15px 50px 10px 49px;
+}
+#Head .Logo{
+    width: 171px;
+    height: 44px;
+    float: left;
+}
+#Head .Nav{
+    width: 448px;
+    height: 24px;
+    padding-top: 20px;
+    float: right;
+    /*background: red;*/
+
+}
+#Head .Nav a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #5a5a5a;
+}
+
+#Picture{
+    width: 1099px;
+    height: 423px;
+    margin: 0 auto;
+    background: #595959;
+}
+
+#Services{
+    width: 999px;
+    height: 289px;
+    background: #f2f2f2;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+#Services .view .Title{
+    margin: 0 0;
+    width: 122px;
+    height: 40px;
+    background: #01b6ef;
+    padding-top: 16px;
+    font-size: 21px;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+}
+#Services .View_1{
+    width: 470px;
+    height: 289px;
+    /*background: red;*/
+    float: left;
+}
+#Services .View_1 .Co .left{
+    font-size:15px;
+    color:#24b7eb;
+}
+#Services .View_1 .Co .right{
+    font-size:13px;
+    color:#646464;
+}
+#Services .View_1 .Co_1 .left{
+    width: 122px;
+    height: 112px;
+    float: left;
+    padding-top: 10px;
+}
+#Services .View_1 .Co_1 .right{
+    width: 348px;
+    height: 112px;
+    float: right;
+    padding-top: 10px;
+ }
+#Services .View_1 .Co_2 .left{
+    width: 122px;
+    height: 111px;
+    /*background: red;*/
+    float: left;
+}
+#Services .View_1 .Co_2 .right{
+    width: 348px;
+    height: 111px;
+    /*background: yellowgreen;*/
+    float: right;
+}
+
+#Services .View_2{
+    width: 492px;
+    height: 289px;
+    background: #f2f2f2;
+    float: right;
+}
+
+#Services .View_2 .pic1{
+    float: left;
+    width:160px;
+    padding-top: 17px;
+}
+#Services .View_2 .pic2{
+    float: left;
+    width: 160px;
+    padding-top: 17px;
+}
+#Services .View_2 .pic3{
+    float: left;
+    width:160px;
+    padding-top: 17px;
+}
+
+#Content{
+    width: 1099px;
+    height: 429px;
+    background: cornflowerblue;
+    margin: 0 auto;
+}
+
+#Foot{
+    width: 1099px;
+    height: 229px;
+    background: darksalmon;
+    margin: 0 auto;
+}
