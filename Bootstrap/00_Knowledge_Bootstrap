@@ -1,0 +1,9 @@
+1.
+h1.test ---> <h1 class="test"></h1>
+h1#test ---> id = 'test'
+#test   ---> <div id='test'><div>
+.test   ---> <div class='test><div>
+
+li*5    ---><li></li>.....<li></li>
+
+lorem40 ---> Generate 40 words used to fill blank
