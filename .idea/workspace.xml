@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cad1f7d-d2cb-4f59-8e1d-da949f60776d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/4_5_auto_margins_wrapping_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/4_5_auto_margins_wrapping_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_2_carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_2_carousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_3_collapse.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_3_collapse.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1569095395407</updated>
       <workItem from="1569095396571" duration="3605000" />
+      <workItem from="1569111041214" duration="3785000" />
+      <workItem from="1569257320551" duration="1085000" />
     </task>
     <task id="LOCAL-00001" summary="4.2">
       <created>1569097185948</created>
@@ -88,7 +92,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
