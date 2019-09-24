@@ -3,9 +3,60 @@
   <component name="ChangeListManager">
     <list default="true" id="3cad1f7d-d2cb-4f59-8e1d-da949f60776d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_5_popovers.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_5_popovers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_6_modals.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_6_modals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_7_scrollspy.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_7_scrollspy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/2_2_basic_typography.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/2_3_text_alignment_display.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/2_4_floats_position.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/2_5_colors_background.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/2_6_spacing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/2_7_sizing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/2_8_breakpoints.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/3_10_media_object.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/3_11_jumbotron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/3_2_buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/3_3_navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/3_4_list_groups_badges.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/3_5_forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/3_6_input_groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/3_7_alerts_progress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/3_8_tables_pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/3_9_cards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/4_2_grid_system.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/4_3_grid_alignment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/4_4_flexbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/4_5_auto_margins_wrapping_order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/5_2_carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/5_3_collapse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/5_4_tooltips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/5_5_popovers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/5_6_modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_final/5_7_scrollspy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/2_2_basic_typography.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/2_3_text_alignment_display.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/2_4_floats_position.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/2_5_colors_background.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/2_6_spacing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/2_7_sizing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/2_8_breakpoints.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/3_10_media_object.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/3_11_jumbotron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/3_2_buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/3_3_navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/3_4_list_groups_badges.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/3_5_forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/3_6_input_groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/3_7_alerts_progress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/3_8_tables_pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/3_9_cards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/4_2_grid_system.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/4_3_grid_alignment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/4_4_flexbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/4_5_auto_margins_wrapping_order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_2_carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_3_collapse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_4_tooltips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_5_popovers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_6_modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_zip/bootstrap_sandbox_starter/5_7_scrollspy.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +112,7 @@
       <workItem from="1569111041214" duration="3785000" />
       <workItem from="1569257320551" duration="5148000" />
       <workItem from="1569279840684" duration="2914000" />
+      <workItem from="1569348994327" duration="1101000" />
     </task>
     <task id="LOCAL-00001" summary="4.2">
       <created>1569097185948</created>
