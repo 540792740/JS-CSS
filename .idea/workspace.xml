@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cad1f7d-d2cb-4f59-8e1d-da949f60776d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_011_jQuery_savetime.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_008_dynamic_event_listeners.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_008_dynamic_event_listeners.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_002_output to HTML doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_002_output to HTML doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_011_jQuery_savetime.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_011_jQuery_savetime.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,7 @@
       <workItem from="1569257320551" duration="5148000" />
       <workItem from="1569279840684" duration="2914000" />
       <workItem from="1569348994327" duration="11071000" />
-      <workItem from="1569510402791" duration="14053000" />
+      <workItem from="1569510402791" duration="16275000" />
     </task>
     <task id="LOCAL-00001" summary="4.2">
       <created>1569097185948</created>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569533476287</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="JS">
+      <created>1569534308123</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1569534308123</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
