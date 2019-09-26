@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cad1f7d-d2cb-4f59-8e1d-da949f60776d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_002_output to HTML doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_002_output_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_008_dynamic_event_listeners.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_002_output to HTML doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_002_output to HTML doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_002_output_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_002_output_js.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +46,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,12 +60,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.1_002_output to HTML doc.html">
+    <configuration name="1_002_output to HTML doc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSS/JS_AJAX_PHP_courese/1_002_output to HTML doc.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="1_002_output_js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1_002_output_js.js" working-dir="$PROJECT_DIR$/JS_AJAX_PHP_courese">
+      <method v="2" />
+    </configuration>
+    <configuration name="1_008_dynamic_event_listeners.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1_008_dynamic_event_listeners.js" working-dir="$PROJECT_DIR$/JS_AJAX_PHP_courese">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.1_002_output to HTML doc.html" />
+        <item itemvalue="Node.js.1_008_dynamic_event_listeners.js" />
         <item itemvalue="Node.js.1_002_output_js.js" />
       </list>
     </recent_temporary>
@@ -83,7 +93,7 @@
       <workItem from="1569257320551" duration="5148000" />
       <workItem from="1569279840684" duration="2914000" />
       <workItem from="1569348994327" duration="11071000" />
-      <workItem from="1569510402791" duration="4889000" />
+      <workItem from="1569510402791" duration="13064000" />
     </task>
     <task id="LOCAL-00001" summary="4.2">
       <created>1569097185948</created>
@@ -155,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569366716378</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="JS">
+      <created>1569515510374</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569515510374</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +196,7 @@
     <MESSAGE value="4.3" />
     <MESSAGE value="4.4" />
     <MESSAGE value="5.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.3" />
+    <MESSAGE value="JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS" />
   </component>
 </project>

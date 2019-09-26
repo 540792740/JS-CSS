@@ -43,6 +43,7 @@ if(number1 == number2) {
 console.log(output);
 
 //if-else:
+//=== is absolute equal, number and string is not absolute equal
 if(number1 === number2) {
     output = 'Same';
 }else{
@@ -63,3 +64,21 @@ switch (myNumber) {
         output += ' NotFound';
 }
 myOutput.innerHTML = output;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
