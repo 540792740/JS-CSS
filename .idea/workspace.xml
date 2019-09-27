@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cad1f7d-d2cb-4f59-8e1d-da949f60776d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_012_ajax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_012_ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_conn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_submit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/Json.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/03_create.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_011_jQuery_savetime.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_011_jQuery_savetime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/myphp.php" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/myphp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_conn.php" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_conn.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +19,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,6 +56,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -56,7 +68,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+    <property name="settings.editor.selected.configurable" value="SQL Resolution Scopes" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,11 +82,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.3_submit.php">
-    <configuration name="1_002_output to HTML doc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSS/JS_AJAX_PHP_courese/1_002_output to HTML doc.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="PHP Script.data.php">
+    <configuration name="03_create.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSS/JS_AJAX_PHP_courese/03_create.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="1_002_output_js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1_002_output_js.js" working-dir="$PROJECT_DIR$/JS_AJAX_PHP_courese">
+    <configuration name="1_002_output to HTML doc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSS/JS_AJAX_PHP_courese/1_002_output to HTML doc.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="1_008_dynamic_event_listeners.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1_008_dynamic_event_listeners.js" working-dir="$PROJECT_DIR$/JS_AJAX_PHP_courese">
@@ -83,12 +95,16 @@
     <configuration name="3_submit.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_submit.php">
       <method v="2" />
     </configuration>
+    <configuration name="data.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/JS_AJAX_PHP_courese/data.php">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.data.php" />
+        <item itemvalue="JavaScript Debug.03_create.php" />
         <item itemvalue="PHP Script.3_submit.php" />
         <item itemvalue="JavaScript Debug.1_002_output to HTML doc.html" />
         <item itemvalue="Node.js.1_008_dynamic_event_listeners.js" />
-        <item itemvalue="Node.js.1_002_output_js.js" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +125,7 @@
       <workItem from="1569348994327" duration="11071000" />
       <workItem from="1569510402791" duration="16313000" />
       <workItem from="1569593014692" duration="417000" />
-      <workItem from="1569593456284" duration="8188000" />
+      <workItem from="1569593456284" duration="10762000" />
     </task>
     <task id="LOCAL-00001" summary="4.2">
       <created>1569097185948</created>
@@ -216,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569600528572</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="JS">
+      <created>1569623148773</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1569623148773</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
