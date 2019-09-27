@@ -22,3 +22,35 @@ $(function() {
 $.get('myphp.php', function( response ){
     $('#output').html( response );  //server response
 });
+
+$.ajax({
+    url:'Json.php',
+    dataType:'json',
+    cache:false,
+    success: function (data, status) {
+        console.log(data);
+        $.each(data, function (index) {
+            console.log(data[index]);
+        });
+    },
+    error:function(xhr, textStatus, err){
+        console.log(xhr);
+        console.log(textStatus);
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

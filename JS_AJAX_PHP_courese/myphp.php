@@ -1,8 +1,3 @@
 <?php
-echo('Hello World');
-
-
-class myphp
-{
-
-}
+echo $_POST['m'];
+?>

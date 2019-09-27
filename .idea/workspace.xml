@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cad1f7d-d2cb-4f59-8e1d-da949f60776d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JSS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/myphp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/p.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_012_ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_012_ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_conn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_submit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/Json.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/data.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_011_jQuery_savetime.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/1_011_jQuery_savetime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/myphp.php" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/myphp.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.1_002_output to HTML doc.html">
+  <component name="RunManager" selected="PHP Script.3_submit.php">
     <configuration name="1_002_output to HTML doc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSS/JS_AJAX_PHP_courese/1_002_output to HTML doc.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -78,8 +80,12 @@
     <configuration name="1_008_dynamic_event_listeners.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1_008_dynamic_event_listeners.js" working-dir="$PROJECT_DIR$/JS_AJAX_PHP_courese">
       <method v="2" />
     </configuration>
+    <configuration name="3_submit.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_submit.php">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.3_submit.php" />
         <item itemvalue="JavaScript Debug.1_002_output to HTML doc.html" />
         <item itemvalue="Node.js.1_008_dynamic_event_listeners.js" />
         <item itemvalue="Node.js.1_002_output_js.js" />
@@ -103,7 +109,7 @@
       <workItem from="1569348994327" duration="11071000" />
       <workItem from="1569510402791" duration="16313000" />
       <workItem from="1569593014692" duration="417000" />
-      <workItem from="1569593456284" duration="2342000" />
+      <workItem from="1569593456284" duration="8188000" />
     </task>
     <task id="LOCAL-00001" summary="4.2">
       <created>1569097185948</created>
@@ -203,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569538943089</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="JS">
+      <created>1569600528572</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1569600528572</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
