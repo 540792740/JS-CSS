@@ -17,5 +17,8 @@ $(function() {
             }
 
         });
-    })
+    });
 
+$.get('myphp.php', function( response ){
+    $('#output').html( response );  //server response
+});
