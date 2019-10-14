@@ -17,12 +17,12 @@ require_once ('3_conn.php');
     }   else{
         //submit to databas
         $query = sprintf("INNSERT INTO `testComments` (`name`,`comment`,`created`) VALUES ('%s','%s', '%s')",
-                        mysql_real_escape_string($_POST['name']),
-                        mysql_real_escape_string($_POST['comments']),
+                        mysqli_real_escape_string($_POST['name']),
+                        mysqli_real_escape_string($_POST['comments']),
                         'NOW()'
         );
 
-if (mysql_query($query)){
+if (mysqli_query($query)){
     $form_data['success'] = true;
     $form_data['posted'] = 'Thanks for submitting';
     } else {

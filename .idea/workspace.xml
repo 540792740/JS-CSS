@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cad1f7d-d2cb-4f59-8e1d-da949f60776d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/03_create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/03_create.php" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/03_create.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_conn.php" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_conn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_submit.php" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/3_submit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_AJAX_PHP_courese/data.php" beforeDir="false" afterPath="$PROJECT_DIR$/JS_AJAX_PHP_courese/data.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +36,11 @@
     <expand />
     <select />
   </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="7fa32871-cf43-4c85-a640-1f39b353a2d3" />
+    </checked>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -47,7 +54,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
-      <path value="D:/php5.6" />
+      <path value="C:/Php7" />
     </include_path>
   </component>
   <component name="ProjectId" id="1RA25PdNPuBeAJoIJoo32jgtcIk" />
@@ -61,14 +68,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/php5.6/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="SQL Resolution Scopes" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.data.php">
+  <component name="RunManager" selected="JavaScript Debug.03_create.php">
     <configuration name="03_create.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSS/JS_AJAX_PHP_courese/03_create.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -100,13 +107,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.data.php" />
         <item itemvalue="JavaScript Debug.03_create.php" />
-        <item itemvalue="PHP Script.3_submit.php" />
         <item itemvalue="JavaScript Debug.1_002_output to HTML doc.html" />
         <item itemvalue="Node.js.1_008_dynamic_event_listeners.js" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -125,7 +140,15 @@
       <workItem from="1569348994327" duration="11071000" />
       <workItem from="1569510402791" duration="16313000" />
       <workItem from="1569593014692" duration="417000" />
-      <workItem from="1569593456284" duration="10762000" />
+      <workItem from="1569593456284" duration="10986000" />
+      <workItem from="1569627028397" duration="45000" />
+      <workItem from="1569628314441" duration="1699000" />
+      <workItem from="1569631545227" duration="255000" />
+      <workItem from="1569632182031" duration="435000" />
+      <workItem from="1569632889117" duration="240000" />
+      <workItem from="1569637116185" duration="1001000" />
+      <workItem from="1569645326290" duration="1269000" />
+      <workItem from="1571066768418" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="4.2">
       <created>1569097185948</created>
@@ -239,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569623148773</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="JS">
+      <created>1569625764898</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569625764898</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
